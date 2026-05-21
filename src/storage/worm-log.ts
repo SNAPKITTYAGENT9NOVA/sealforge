@@ -19,7 +19,9 @@ export class WormLog {
   constructor(dataDir: string = './data') {
     if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir, { recursive: true })
     this.filePath = path.join(dataDir, 'sealforge.worm.jsonl')
-    this.secret = process.env.WORM_SECRET ?? 'dev-worm-key'
+    const secret = process.env.WORM_SECRET
+    if (!secret || secret.length < 32) throw new Error('[WORM] WORM_SECRET must be set and at least 32 characters')
+    this.secret = secret
     this.loadChainTip()
   }
 
