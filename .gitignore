@@ -1,0 +1,8 @@
+node_modules/
+dist/
+data/
+*.worm.jsonl
+.env
+.env.*
+*.log
+.DS_Store
