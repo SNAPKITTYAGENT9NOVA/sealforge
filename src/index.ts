@@ -1,3 +1,4 @@
+import 'dotenv/config'
 import { startServer, worm } from './server'
 
 startServer()

@@ -11,6 +11,7 @@
  * NEXUS — Orchestration Agent (connecting SEALFORGE Node 1 → FORGE Node 2)
  */
 
+import 'dotenv/config'
 import { WormLog } from '../storage/worm-log'
 import { ForgeContract } from './forge-contract'
 import { runSettlement, SettlementRunResult } from './settlement'
