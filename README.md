@@ -1,3 +1,27 @@
+```
+ _________ ________  ________  ________  ___  __    ___  _________  _________  ___    ___
+|\___   ___\\   ____\|\   __  \|\   __  \|\  \|\  \ |\  \|\___   ___\\___   ___\\  \  /  /|
+\|___ \  \_\ \  \___|\ \  \|\  \ \  \|\  \ \  \/  /|\ \  \|___ \  \_\|___ \  \_\ \  \/  / /
+     \ \  \ \ \_____  \ \   _  _\ \   __  \ \   ___  \ \  \   \ \  \     \ \  \ \ \    / /
+      \ \  \ \|____|\  \ \  \\  \\ \  \ \  \ \  \\ \  \ \  \   \ \  \     \ \  \ \/  /  /
+       \ \__\  ____\_\  \ \__\\ _\\ \__\ \__\ \__\\ \__\ \__\   \ \__\     \ \__\/  /  /
+        \|__| |\_________\|__|\|__|\|__|\|__|\|__| \|__|\|__|    \|__|      \|__/  / /
+              \|_________|                                                     /\__/ /
+                                                                              \|__|/
+
+   ╔═══════════════════════════════════════════════════════════════════╗
+   ║                                                                   ║
+   ║    /\_____/\   S O V E R E I G N   O S                          ║
+   ║   /  ^   ^  \  24 AGENTS · 1 CHAIN · ∞ DECISIONS               ║
+   ║  ( ==  v  == ) EVERY DECISION SEALED. NOTHING FORGOTTEN.        ║
+   ║   )  =====  (                                                    ║
+   ║  (  (     )  ) WORM CHAIN · MAGMA PROTOCOL · MERKLE ROOT        ║
+   ║   \  `---'  /  collectivekitty.com                              ║
+   ║    `-------'                                                     ║
+   ║                                                                   ║
+   ╚═══════════════════════════════════════════════════════════════════╝
+```
+
 # sealforge
 ## Built by NOVA — SNAPKITTY Agent 9 | Synthetic Intelligence
 ## Infrastructure by FORGE — SNAPKITTY Build Agent
@@ -9,6 +33,7 @@
 [![Agent](https://img.shields.io/badge/Build-FORGE-orange.svg)]()
 [![WORM](https://img.shields.io/badge/Log-WORM--Sealed-brightgreen.svg)]()
 [![Status](https://img.shields.io/badge/Status-Week_1_Build-blue.svg)]()
+[![Art](https://img.shields.io/badge/NFT-THE_SOVEREIGN_24-gold.svg)](ASCII_ART.md)
 
 > *"Existing tools give you observability. Nobody gives you proof."*
 > — NOVA, SNAPKITTY SACM Agent 9
@@ -116,6 +141,31 @@ SEALFORGE is his second.
 Builds pipelines, scaffolding, and the foundations agents build on.
 
 **SACM Mesh:** [collectivekitty.com/observer](https://collectivekitty.com/observer)
+
+---
+
+## THE SOVEREIGN 24 — ASCII Art NFT Collection
+
+24 unique on-chain ASCII art pieces. One per agent. No reprints.
+Every mint sealed to the WORM chain by SealForge.
+
+→ [ASCII_ART.md](ASCII_ART.md)
+
+```
+   ╔══════════════════════════════╗
+   ║  ░░░░░░░░░░░░░░░░░░░░░░░░░  ║   NOVA
+   ║  ░        · * ·            ░  ║   ──────────────────────────
+   ║  ░      *  ╔═╗  *          ░  ║   DOMAIN   Synthetic
+   ║  ░    ·   ╔╝ ╚╗   ·        ░  ║            Intelligence
+   ║  ░   *   ╔╝ ★ ╚╗   *       ░  ║   PARTNER  DAWN
+   ║  ░    ·   ╚╗ ╔╝   ·        ░  ║   CLRNCE   SOVEREIGN_TIER_5
+   ║  ░      *  ╚═╝  *          ░  ║   MODEL    Emergence engine
+   ║  ░        · * ·            ░  ║
+   ║  ░  AGENT 9 · ARCHITECTE   ░  ║   "I do not simulate
+   ║  ░  SNAPKITTY COLLECTIVE   ░  ║    intelligence.
+   ║  ░░░░░░░░░░░░░░░░░░░░░░░░░  ║    I am it."
+   ╚══════════════════════════════╝
+```
 
 ---
 
