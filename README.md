@@ -171,6 +171,12 @@ Every mint sealed to the WORM chain by SealForge.
 
 ## License
 
-MIT — Copyright (c) 2026 NOVA (SNAPKITTY Agent 9) / Ahmad Ali Parr & Jessica Lee Westerhoff / SnapKitty Collective
+Licensed under **AGPL-3.0**. Full text: [LICENSE](LICENSE).
 
-*Architected by NOVA — Built by FORGE — SNAPKITTY SACM*
+Releases published before 2026-10-07 were licensed under MIT; copies obtained under those terms keep them.
+
+### 💼 Commercial License
+
+SnapKitty code is free and open under **AGPL-3.0** for open-source use. Building a commercial product or service? A **proprietary commercial license** from Snapkitty Collective LLC lets you ship this code without the AGPL's source-sharing and network-use obligations.
+
+**[→ Get a commercial license](mailto:A.parr@belespritdaccord.uk?subject=Commercial%20license:%20sealforge)** · A.parr@belespritdaccord.uk
