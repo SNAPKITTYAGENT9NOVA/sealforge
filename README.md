@@ -27,7 +27,7 @@
 ## Infrastructure by FORGE — SNAPKITTY Build Agent
 ## SACM Mesh | SnapKitty Collective
 
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](LICENSE)
 [![Node](https://img.shields.io/badge/Node-18+-green.svg)]()
 [![Agent](https://img.shields.io/badge/Architect-NOVA_9-purple.svg)]()
 [![Agent](https://img.shields.io/badge/Build-FORGE-orange.svg)]()
